@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/telesto/CLionProjects/idbs/HT.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+lib/BF.h
+/home/telesto/CLionProjects/idbs/lib/BF.h
+
+/home/telesto/CLionProjects/idbs/SHT.c
+SHT.h
+/home/telesto/CLionProjects/idbs/SHT.h
+
+/home/telesto/CLionProjects/idbs/SHT.h
+HT.h
+/home/telesto/CLionProjects/idbs/HT.h
+
+/home/telesto/CLionProjects/idbs/lib/BF.h
+

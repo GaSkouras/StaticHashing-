@@ -1,0 +1,3 @@
+/home/telesto/CLionProjects/idbs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/telesto/CLionProjects/idbs/cmake-build-debug/CMakeFiles/idbs.dir
+/home/telesto/CLionProjects/idbs/cmake-build-debug/CMakeFiles/edit_cache.dir

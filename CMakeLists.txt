@@ -1,0 +1,6 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.13)
+PROJECT(idbs C)
+SET(CMAKE_C_STANDARD 99)
+set(SOURCE_FILES main.c HT.c SHT.c)
+add_executable(idbs ${SOURCE_FILES})
+target_link_libraries(idbs /home/telesto/CLionProjects/idbs/lib/BF_64.a -static)
